@@ -32,7 +32,13 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        
+            isGrounded = Physics2D.OverlapCircle(groundCheck.position,groundCheckRadius,groundLayer);
+          
+        if (anim != null)
+        {
+            anim.SetBool("isJumping", !isGrounded);
+            anim.SetFloat("yVelocity", PlayerRB.linearVelocity.y);
+        }
     }
 
     private void FixedUpdate()
@@ -43,13 +49,29 @@ public class PlayerController : MonoBehaviour
     void Movement()
     {
         PlayerRB.linearVelocity = new Vector2(moveImput.x * speed, PlayerRB.linearVelocity.y);
+        if (anim != null)
+        {
+            anim.SetBool("isRunning", moveImput.x != 0);
+
+            if (moveImput.x > 0)
+                transform.localScale = new Vector3(1, 1, 1);
+            else if (moveImput.x < 0)
+                transform.localScale = new Vector3(-1, 1, 1);
+        }
     }
 
 
-    public void OrMove(InputAction.CallbackContext context)
+    public void OnMove(InputValue value)
     {
-        moveImput = context.ReadValue<Vector2>();
+        moveImput = value.Get<Vector2>();
     }
 
+    public void OnJump(InputValue value)
+    {
+        if (isGrounded)
+        {
+            PlayerRB.linearVelocity = new Vector2(PlayerRB.linearVelocity.x,jumpForce);
+        }
+    }
 
 }
