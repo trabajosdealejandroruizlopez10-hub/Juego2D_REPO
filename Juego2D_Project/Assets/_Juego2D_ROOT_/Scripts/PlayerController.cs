@@ -44,14 +44,19 @@ public class PlayerController : MonoBehaviour
     void Movement()
     {
         PlayerRB.linearVelocity = new Vector2(moveImput.x * speed, PlayerRB.linearVelocity.y);
-        
+        if (moveImput.x > 0)
+            transform.localScale = new Vector3(1, 1, 1);
+        else if (moveImput.x < 0)
+            transform.localScale = new Vector3(-1, 1, 1);
     }
 
     void AnimationLogic()
     {
         if (anim != null)
         {
-            anim.SetBool("isJumping", !isGrounded);
+            anim.SetBool("isRunning", moveImput.x != 0);
+            anim.SetBool("isJumping", PlayerRB.linearVelocity.y > 0.1f && !isGrounded);
+            anim.SetBool("isFalling", PlayerRB.linearVelocity.y < -0.1f && !isGrounded);
             anim.SetFloat("yVelocity", PlayerRB.linearVelocity.y);
         }
     }
