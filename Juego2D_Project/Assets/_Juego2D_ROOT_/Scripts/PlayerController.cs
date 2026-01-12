@@ -1,4 +1,4 @@
-using UnityEditor.Rendering.LookDev;
+﻿using UnityEditor.Rendering.LookDev;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -17,7 +17,6 @@ public class PlayerController : MonoBehaviour
     PlayerInput input;
     Vector2 moveImput;
 
-
     private void Awake()
     {
         PlayerRB = GetComponent<Rigidbody2D>();
@@ -32,13 +31,9 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-            isGrounded = Physics2D.OverlapCircle(groundCheck.position,groundCheckRadius,groundLayer);
-          
-        if (anim != null)
-        {
-            anim.SetBool("isJumping", !isGrounded);
-            anim.SetFloat("yVelocity", PlayerRB.linearVelocity.y);
-        }
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        AnimationLogic();
+      
     }
 
     private void FixedUpdate()
@@ -49,29 +44,29 @@ public class PlayerController : MonoBehaviour
     void Movement()
     {
         PlayerRB.linearVelocity = new Vector2(moveImput.x * speed, PlayerRB.linearVelocity.y);
+        
+    }
+
+    void AnimationLogic()
+    {
         if (anim != null)
         {
-            anim.SetBool("isRunning", moveImput.x != 0);
-
-            if (moveImput.x > 0)
-                transform.localScale = new Vector3(1, 1, 1);
-            else if (moveImput.x < 0)
-                transform.localScale = new Vector3(-1, 1, 1);
+            anim.SetBool("isJumping", !isGrounded);
+            anim.SetFloat("yVelocity", PlayerRB.linearVelocity.y);
         }
     }
 
-
-    public void OnMove(InputValue value)
+    public void OnMove(InputAction.CallbackContext context)
     {
-        moveImput = value.Get<Vector2>();
+        moveImput = context.ReadValue<Vector2>();
     }
 
-    public void OnJump(InputValue value)
+    public void OnJump(InputAction.CallbackContext context)
     {
-        if (isGrounded)
+
+        if (context.performed && isGrounded)
         {
-            PlayerRB.linearVelocity = new Vector2(PlayerRB.linearVelocity.x,jumpForce);
+            PlayerRB.AddForce(Vector3.up * jumpForce, ForceMode2D.Impulse);
         }
     }
-
 }
