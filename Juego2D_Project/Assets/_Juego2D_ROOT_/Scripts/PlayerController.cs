@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius;
     [SerializeField] private LayerMask groundLayer;
+    [SerializeField] private bool isAttacking;
 
     Rigidbody2D PlayerRB;
     Animator anim;
@@ -58,6 +59,7 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("isJumping", PlayerRB.linearVelocity.y > 0.1f && !isGrounded);
             anim.SetBool("isFalling", PlayerRB.linearVelocity.y < -0.1f && !isGrounded);
             anim.SetFloat("yVelocity", PlayerRB.linearVelocity.y);
+            anim.SetTrigger("isAttacking");
         }
     }
 
@@ -72,6 +74,15 @@ public class PlayerController : MonoBehaviour
         if (context.performed && isGrounded)
         {
             PlayerRB.AddForce(Vector3.up * jumpForce, ForceMode2D.Impulse);
+        }
+    }
+
+    public void OnAttack(InputAction.CallbackContext context)
+    {
+        if (context.performed && !isAttacking)
+        {
+            isAttacking = true;
+            anim.SetTrigger("Attack");
         }
     }
 }
