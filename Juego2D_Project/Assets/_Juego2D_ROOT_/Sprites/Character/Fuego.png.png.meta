@@ -282,12 +282,12 @@ TextureImporter:
       name: Fuego.png_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 1071
-        width: 39
-        height: 43
+        x: 0
+        y: 1008
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -304,12 +304,12 @@ TextureImporter:
       name: Fuego.png_1
       rect:
         serializedVersion: 2
-        x: 43
-        y: 943
-        width: 38
-        height: 40
+        x: 142
+        y: 1008
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -326,12 +326,12 @@ TextureImporter:
       name: Fuego.png_2
       rect:
         serializedVersion: 2
-        x: 174
-        y: 943
-        width: 78
-        height: 126
+        x: 0
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -348,12 +348,12 @@ TextureImporter:
       name: Fuego.png_3
       rect:
         serializedVersion: 2
-        x: 302
-        y: 943
-        width: 36
-        height: 42
+        x: 142
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -370,12 +370,12 @@ TextureImporter:
       name: Fuego.png_4
       rect:
         serializedVersion: 2
-        x: 430
-        y: 943
-        width: 35
-        height: 42
+        x: 284
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -392,12 +392,12 @@ TextureImporter:
       name: Fuego.png_5
       rect:
         serializedVersion: 2
-        x: 558
-        y: 943
-        width: 36
-        height: 40
+        x: 426
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -414,12 +414,12 @@ TextureImporter:
       name: Fuego.png_6
       rect:
         serializedVersion: 2
-        x: 686
-        y: 943
-        width: 36
-        height: 42
+        x: 568
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -436,12 +436,12 @@ TextureImporter:
       name: Fuego.png_7
       rect:
         serializedVersion: 2
-        x: 814
-        y: 943
-        width: 35
-        height: 42
+        x: 710
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -458,12 +458,12 @@ TextureImporter:
       name: Fuego.png_8
       rect:
         serializedVersion: 2
-        x: 942
-        y: 943
-        width: 34
-        height: 41
+        x: 852
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -480,12 +480,12 @@ TextureImporter:
       name: Fuego.png_9
       rect:
         serializedVersion: 2
-        x: 1071
-        y: 943
-        width: 34
-        height: 43
+        x: 994
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -502,12 +502,12 @@ TextureImporter:
       name: Fuego.png_10
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 943
-        width: 35
-        height: 42
+        x: 1136
+        y: 864
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -524,12 +524,12 @@ TextureImporter:
       name: Fuego.png_11
       rect:
         serializedVersion: 2
-        x: 48
-        y: 815
-        width: 32
-        height: 39
+        x: 0
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -546,12 +546,12 @@ TextureImporter:
       name: Fuego.png_12
       rect:
         serializedVersion: 2
-        x: 179
-        y: 815
-        width: 26
-        height: 42
+        x: 142
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -568,12 +568,12 @@ TextureImporter:
       name: Fuego.png_13
       rect:
         serializedVersion: 2
-        x: 305
-        y: 815
-        width: 28
-        height: 44
+        x: 284
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -590,12 +590,12 @@ TextureImporter:
       name: Fuego.png_14
       rect:
         serializedVersion: 2
-        x: 432
-        y: 815
-        width: 30
-        height: 44
+        x: 426
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -612,12 +612,12 @@ TextureImporter:
       name: Fuego.png_15
       rect:
         serializedVersion: 2
-        x: 560
-        y: 815
-        width: 32
-        height: 44
+        x: 568
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -634,12 +634,12 @@ TextureImporter:
       name: Fuego.png_16
       rect:
         serializedVersion: 2
-        x: 687
-        y: 815
-        width: 33
-        height: 42
+        x: 710
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -656,12 +656,12 @@ TextureImporter:
       name: Fuego.png_17
       rect:
         serializedVersion: 2
-        x: 817
-        y: 815
-        width: 28
-        height: 43
+        x: 852
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -678,12 +678,12 @@ TextureImporter:
       name: Fuego.png_18
       rect:
         serializedVersion: 2
-        x: 947
-        y: 815
-        width: 27
-        height: 44
+        x: 994
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -700,12 +700,12 @@ TextureImporter:
       name: Fuego.png_19
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 815
-        width: 27
-        height: 45
+        x: 1136
+        y: 720
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -722,12 +722,12 @@ TextureImporter:
       name: Fuego.png_20
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 815
-        width: 32
-        height: 45
+        x: 0
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -744,12 +744,12 @@ TextureImporter:
       name: Fuego.png_21
       rect:
         serializedVersion: 2
-        x: 43
-        y: 687
-        width: 42
-        height: 42
+        x: 142
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -766,12 +766,12 @@ TextureImporter:
       name: Fuego.png_22
       rect:
         serializedVersion: 2
-        x: 172
-        y: 687
-        width: 37
-        height: 40
+        x: 284
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -788,12 +788,12 @@ TextureImporter:
       name: Fuego.png_23
       rect:
         serializedVersion: 2
-        x: 303
-        y: 687
-        width: 38
-        height: 39
+        x: 426
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -810,12 +810,12 @@ TextureImporter:
       name: Fuego.png_24
       rect:
         serializedVersion: 2
-        x: 429
-        y: 687
-        width: 44
-        height: 42
+        x: 568
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -832,12 +832,12 @@ TextureImporter:
       name: Fuego.png_25
       rect:
         serializedVersion: 2
-        x: 556
-        y: 690
-        width: 46
-        height: 40
+        x: 710
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -854,12 +854,12 @@ TextureImporter:
       name: Fuego.png_26
       rect:
         serializedVersion: 2
-        x: 683
-        y: 687
-        width: 47
-        height: 42
+        x: 852
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -876,12 +876,12 @@ TextureImporter:
       name: Fuego.png_27
       rect:
         serializedVersion: 2
-        x: 813
-        y: 687
-        width: 39
-        height: 40
+        x: 994
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -898,12 +898,12 @@ TextureImporter:
       name: Fuego.png_28
       rect:
         serializedVersion: 2
-        x: 943
-        y: 687
-        width: 33
-        height: 39
+        x: 1136
+        y: 576
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -920,12 +920,12 @@ TextureImporter:
       name: Fuego.png_29
       rect:
         serializedVersion: 2
-        x: 1067
-        y: 687
-        width: 42
-        height: 41
+        x: 0
+        y: 432
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -942,12 +942,12 @@ TextureImporter:
       name: Fuego.png_30
       rect:
         serializedVersion: 2
-        x: 1195
-        y: 688
-        width: 43
-        height: 43
+        x: 142
+        y: 432
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -964,12 +964,12 @@ TextureImporter:
       name: Fuego.png_31
       rect:
         serializedVersion: 2
-        x: 44
-        y: 559
-        width: 37
-        height: 40
+        x: 284
+        y: 432
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -986,12 +986,12 @@ TextureImporter:
       name: Fuego.png_32
       rect:
         serializedVersion: 2
-        x: 174
-        y: 558
-        width: 32
-        height: 47
+        x: 426
+        y: 432
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1008,12 +1008,12 @@ TextureImporter:
       name: Fuego.png_33
       rect:
         serializedVersion: 2
-        x: 299
-        y: 559
-        width: 41
-        height: 47
+        x: 568
+        y: 432
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1030,12 +1030,12 @@ TextureImporter:
       name: Fuego.png_34
       rect:
         serializedVersion: 2
-        x: 424
-        y: 560
-        width: 43
-        height: 44
+        x: 710
+        y: 432
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1052,12 +1052,12 @@ TextureImporter:
       name: Fuego.png_35
       rect:
         serializedVersion: 2
-        x: 552
-        y: 557
-        width: 40
-        height: 45
+        x: 0
+        y: 288
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1074,12 +1074,12 @@ TextureImporter:
       name: Fuego.png_36
       rect:
         serializedVersion: 2
-        x: 680
-        y: 431
-        width: 154
-        height: 168
+        x: 142
+        y: 288
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1096,12 +1096,12 @@ TextureImporter:
       name: Fuego.png_37
       rect:
         serializedVersion: 2
-        x: 41
-        y: 433
-        width: 42
-        height: 46
+        x: 284
+        y: 288
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1118,12 +1118,12 @@ TextureImporter:
       name: Fuego.png_38
       rect:
         serializedVersion: 2
-        x: 168
-        y: 433
-        width: 44
-        height: 46
+        x: 0
+        y: 144
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1140,12 +1140,12 @@ TextureImporter:
       name: Fuego.png_39
       rect:
         serializedVersion: 2
-        x: 293
-        y: 432
-        width: 43
-        height: 52
+        x: 142
+        y: 144
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1162,12 +1162,12 @@ TextureImporter:
       name: Fuego.png_40
       rect:
         serializedVersion: 2
-        x: 424
-        y: 431
-        width: 43
-        height: 58
+        x: 284
+        y: 144
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1184,12 +1184,12 @@ TextureImporter:
       name: Fuego.png_41
       rect:
         serializedVersion: 2
-        x: 41
-        y: 303
-        width: 43
-        height: 59
+        x: 0
+        y: 0
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1206,12 +1206,12 @@ TextureImporter:
       name: Fuego.png_42
       rect:
         serializedVersion: 2
-        x: 168
-        y: 303
-        width: 42
-        height: 58
+        x: 142
+        y: 0
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1228,12 +1228,12 @@ TextureImporter:
       name: Fuego.png_43
       rect:
         serializedVersion: 2
-        x: 294
-        y: 303
-        width: 46
-        height: 63
+        x: 284
+        y: 0
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1250,12 +1250,12 @@ TextureImporter:
       name: Fuego.png_44
       rect:
         serializedVersion: 2
-        x: 48
-        y: 175
-        width: 65
-        height: 40
+        x: 426
+        y: 0
+        width: 142
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1268,165 +1268,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Fuego.png_45
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 175
-        width: 69
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9ea2653180c51410800000000000000
-      internalID: 1447274516448456348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego.png_46
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 175
-        width: 65
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e9c79545870bd7d0800000000000000
-      internalID: -2892710066675791390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego.png_47
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 180
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e96ca2456d703ddb0800000000000000
-      internalID: -4768458963338738018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego.png_48
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 47
-        width: 44
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c3de5b6859223c60800000000000000
-      internalID: 7796339364666987464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego.png_49
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 47
-        width: 47
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1a34d9ea1bdd06a0800000000000000
-      internalID: -6481283380077643236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego.png_50
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 47
-        width: 67
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e41701859943c450800000000000000
-      internalID: 6107806426108204261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego.png_51
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 47
-        width: 48
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a41a880d9cd22ec0800000000000000
-      internalID: -3593066985676991325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e200700762f8bdb4492cc77beb47833a
     internalID: 0
     vertices: []
     indices: 
@@ -1434,7 +1280,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":8.0},"gridSpriteSize":{"x":142.0,"y":144.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
     nameFileIdTable:
       Fuego.png_0: -171628824547529684
       Fuego.png_1: -6292753411150827653
@@ -1476,14 +1326,7 @@ TextureImporter:
       Fuego.png_42: -2383283806774069855
       Fuego.png_43: -494095578292717719
       Fuego.png_44: -917019900930564939
-      Fuego.png_45: 1447274516448456348
-      Fuego.png_46: -2892710066675791390
-      Fuego.png_47: -4768458963338738018
-      Fuego.png_48: 7796339364666987464
-      Fuego.png_49: -6481283380077643236
       Fuego.png_5: -3222825569396531049
-      Fuego.png_50: 6107806426108204261
-      Fuego.png_51: -3593066985676991325
       Fuego.png_6: -5548847603264710720
       Fuego.png_7: -7235408027121445055
       Fuego.png_8: 2073754415386548597

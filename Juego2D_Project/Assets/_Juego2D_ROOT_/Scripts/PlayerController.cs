@@ -59,7 +59,6 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("isJumping", PlayerRB.linearVelocity.y > 0.1f && !isGrounded);
             anim.SetBool("isFalling", PlayerRB.linearVelocity.y < -0.1f && !isGrounded);
             anim.SetFloat("yVelocity", PlayerRB.linearVelocity.y);
-            anim.SetTrigger("isAttacking");
         }
     }
 
@@ -85,4 +84,10 @@ public class PlayerController : MonoBehaviour
             anim.SetTrigger("Attack");
         }
     }
+
+    public void EndAttack()
+    {
+        isAttacking = false;
+    }
+
 }

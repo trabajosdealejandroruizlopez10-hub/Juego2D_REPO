@@ -1096,28 +1096,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TioDeFuego.png_37
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 128
-        height: 128
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 215c2c38c32409080800000000000000
-      internalID: -9182766812532390638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TioDeFuego.png_38
       rect:
         serializedVersion: 2
