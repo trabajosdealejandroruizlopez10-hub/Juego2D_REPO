@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class FireCauldronSpawner : MonoBehaviour
 {
@@ -26,14 +27,21 @@ public class FireCauldronSpawner : MonoBehaviour
 
     private void SpawnWave()
     {
+        StartCoroutine(SpawnWaveCoroutine());
+    }
+
+    private IEnumerator SpawnWaveCoroutine()
+    {
         for (int i = 0; i < stonesPerWave; i++)
         {
             GameObject stone = Instantiate(stoneEnemyPrefab, shootPoint.position, Quaternion.identity);
             JumpingFollower follower = stone.GetComponent<JumpingFollower>();
             follower.player = player;
 
+            yield return new WaitForSeconds(0.5f); // espera medio segundo antes de la siguiente piedra
         }
     }
+
 
 }
 
