@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 02c623b8c742b68489f2dc400eae1bab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2784215584587752375
+    second: gothic-castle-tileset2_0
+  - first:
+      213: 7752077509202324140
+    second: gothic-castle-tileset2_1
+  - first:
+      213: -5633909095164677880
+    second: gothic-castle-tileset2_2
+  - first:
+      213: -5670599807788272244
+    second: gothic-castle-tileset2_3
+  - first:
+      213: 6546580473554943722
+    second: gothic-castle-tileset2_4
+  - first:
+      213: -686874588075186993
+    second: gothic-castle-tileset2_5
+  - first:
+      213: 6725304018101553020
+    second: gothic-castle-tileset2_6
+  - first:
+      213: -3517658635708457473
+    second: gothic-castle-tileset2_7
+  - first:
+      213: -3068464012632286341
+    second: gothic-castle-tileset2_8
+  - first:
+      213: 3413989406744263761
+    second: gothic-castle-tileset2_9
+  - first:
+      213: -1985775238149540896
+    second: gothic-castle-tileset2_10
+  - first:
+      213: 81220916584542925
+    second: gothic-castle-tileset2_11
+  - first:
+      213: 7715681859712784750
+    second: gothic-castle-tileset2_12
+  - first:
+      213: 6529138385750118893
+    second: gothic-castle-tileset2_13
+  - first:
+      213: -8196692874938349521
+    second: gothic-castle-tileset2_14
+  - first:
+      213: -5367470353528592113
+    second: gothic-castle-tileset2_15
+  - first:
+      213: 6349796061330898905
+    second: gothic-castle-tileset2_16
+  - first:
+      213: 9107228603034229964
+    second: gothic-castle-tileset2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3a571a25583a620800000000000000
+      internalID: 2784215584587752375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 204
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaac4f1c69e49b60800000000000000
+      internalID: 7752077509202324140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 203
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801fdd5178550d1b0800000000000000
+      internalID: -5633909095164677880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 203
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b169d48bfd41b0800000000000000
+      internalID: -5670599807788272244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee30c361402ada50800000000000000
+      internalID: 6546580473554943722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 203
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4298c833bb776f0800000000000000
+      internalID: -686874588075186993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77437d4f54155d50800000000000000
+      internalID: 6725304018101553020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1381bb14ce2fc0800000000000000
+      internalID: -3517658635708457473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 139
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b9bf8ec30aa65d0800000000000000
+      internalID: -3068464012632286341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 139
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c30fff64de06f20800000000000000
+      internalID: 3413989406744263761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 139
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3745621fb1174e0800000000000000
+      internalID: -1985775238149540896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d00cd4c82c9a50800000000000000
+      internalID: 6529138385750118893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 91
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f280358124f7f3e80800000000000000
+      internalID: -8196692874938349521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 43
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09ec7bc62ae285b0800000000000000
+      internalID: -5367470353528592113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 43
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df7dc700e10f1850800000000000000
+      internalID: 6349796061330898905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-castle-tileset2_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 43
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccd12c8920636e70800000000000000
+      internalID: 9107228603034229964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2ecf096d9abb6d14b8a60d4306663f11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gothic-castle-tileset2_0: 2784215584587752375
+      gothic-castle-tileset2_1: 7752077509202324140
+      gothic-castle-tileset2_10: -1985775238149540896
+      gothic-castle-tileset2_11: 81220916584542925
+      gothic-castle-tileset2_12: 7715681859712784750
+      gothic-castle-tileset2_13: 6529138385750118893
+      gothic-castle-tileset2_14: -8196692874938349521
+      gothic-castle-tileset2_15: -5367470353528592113
+      gothic-castle-tileset2_16: 6349796061330898905
+      gothic-castle-tileset2_17: 9107228603034229964
+      gothic-castle-tileset2_2: -5633909095164677880
+      gothic-castle-tileset2_3: -5670599807788272244
+      gothic-castle-tileset2_4: 6546580473554943722
+      gothic-castle-tileset2_5: -686874588075186993
+      gothic-castle-tileset2_6: 6725304018101553020
+      gothic-castle-tileset2_7: -3517658635708457473
+      gothic-castle-tileset2_8: -3068464012632286341
+      gothic-castle-tileset2_9: 3413989406744263761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
