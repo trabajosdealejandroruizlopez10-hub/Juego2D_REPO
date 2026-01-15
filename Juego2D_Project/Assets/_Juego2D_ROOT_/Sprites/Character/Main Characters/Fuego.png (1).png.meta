@@ -1,163 +1,163 @@
 fileFormatVersion: 2
-guid: b6e3341b30e733f40ba06d4cafbe423a
+guid: 2207496d6d4af574db453b64cfdd78a4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4619708398288772472
-    second: Fuego completo.png_0
+      213: -4392266389991876841
+    second: Fuego.png (1)_0
   - first:
-      213: -981635199269438399
-    second: Fuego completo.png_1
+      213: -3049345428585011016
+    second: Fuego.png (1)_1
   - first:
-      213: -306151053663488838
-    second: Fuego completo.png_2
+      213: -7945071618220418091
+    second: Fuego.png (1)_2
   - first:
-      213: 2892110845891143931
-    second: Fuego completo.png_3
+      213: 562141939756817166
+    second: Fuego.png (1)_3
   - first:
-      213: -5817522927563797173
-    second: Fuego completo.png_4
+      213: 3272785548775201191
+    second: Fuego.png (1)_4
   - first:
-      213: -543590095417099290
-    second: Fuego completo.png_5
+      213: -2869639407761580598
+    second: Fuego.png (1)_5
   - first:
-      213: -1680063235948297097
-    second: Fuego completo.png_6
+      213: 3508718714477302772
+    second: Fuego.png (1)_6
   - first:
-      213: 2084535788245323083
-    second: Fuego completo.png_7
+      213: 5116286946272342450
+    second: Fuego.png (1)_7
   - first:
-      213: 3644070143685066292
-    second: Fuego completo.png_8
+      213: -6643145415886524524
+    second: Fuego.png (1)_8
   - first:
-      213: 4554727083115265089
-    second: Fuego completo.png_9
+      213: 3562966219592970505
+    second: Fuego.png (1)_9
   - first:
-      213: 6583877733277179793
-    second: Fuego completo.png_10
+      213: 2531599516696559030
+    second: Fuego.png (1)_10
   - first:
-      213: -3059735419929849886
-    second: Fuego completo.png_11
+      213: 4530070006145441304
+    second: Fuego.png (1)_11
   - first:
-      213: -8652647868604233148
-    second: Fuego completo.png_12
+      213: -4663908432818511112
+    second: Fuego.png (1)_12
   - first:
-      213: 8518577495424093880
-    second: Fuego completo.png_13
+      213: -1257344958739831410
+    second: Fuego.png (1)_13
   - first:
-      213: 9022062192082087458
-    second: Fuego completo.png_14
+      213: 3926863433918032556
+    second: Fuego.png (1)_14
   - first:
-      213: -4625377232258267796
-    second: Fuego completo.png_15
+      213: -5279107624514932101
+    second: Fuego.png (1)_15
   - first:
-      213: 3858123084015197609
-    second: Fuego completo.png_16
+      213: -3994392673574438795
+    second: Fuego.png (1)_16
   - first:
-      213: -3570659193300975054
-    second: Fuego completo.png_17
+      213: 5275086580132090943
+    second: Fuego.png (1)_17
   - first:
-      213: 2463978213081440898
-    second: Fuego completo.png_18
+      213: 2959813378209967639
+    second: Fuego.png (1)_18
   - first:
-      213: 1991768063111348976
-    second: Fuego completo.png_19
+      213: 5159568464583412301
+    second: Fuego.png (1)_19
   - first:
-      213: -8263095447830100676
-    second: Fuego completo.png_20
+      213: -6576137447273348147
+    second: Fuego.png (1)_20
   - first:
-      213: 6256203189785215206
-    second: Fuego completo.png_21
+      213: -1164326580143879695
+    second: Fuego.png (1)_21
   - first:
-      213: 8025956544080741614
-    second: Fuego completo.png_22
+      213: -94402161430811150
+    second: Fuego.png (1)_22
   - first:
-      213: 3400385329094688781
-    second: Fuego completo.png_23
+      213: 646791801601006880
+    second: Fuego.png (1)_23
   - first:
-      213: 813331798328412667
-    second: Fuego completo.png_24
+      213: 4631102641932005923
+    second: Fuego.png (1)_24
   - first:
-      213: -6196652324073394224
-    second: Fuego completo.png_25
+      213: -6914196467760808630
+    second: Fuego.png (1)_25
   - first:
-      213: 3333810888706966305
-    second: Fuego completo.png_26
+      213: -3639201339085416901
+    second: Fuego.png (1)_26
   - first:
-      213: -2620188607287653574
-    second: Fuego completo.png_27
+      213: -7031896494347706894
+    second: Fuego.png (1)_27
   - first:
-      213: -2060911642786899297
-    second: Fuego completo.png_28
+      213: 1641758659956258592
+    second: Fuego.png (1)_28
   - first:
-      213: -5256042783177557261
-    second: Fuego completo.png_29
+      213: -238467778199705524
+    second: Fuego.png (1)_29
   - first:
-      213: -5741959128457436363
-    second: Fuego completo.png_30
+      213: 7171137042465491933
+    second: Fuego.png (1)_30
   - first:
-      213: 3320766361046131244
-    second: Fuego completo.png_31
+      213: 2731161591001466152
+    second: Fuego.png (1)_31
   - first:
-      213: -7272084913714037764
-    second: Fuego completo.png_32
+      213: -5627223015675028460
+    second: Fuego.png (1)_32
   - first:
-      213: -5647930084691552541
-    second: Fuego completo.png_33
+      213: -5112072997535698881
+    second: Fuego.png (1)_33
   - first:
-      213: 4730559057117571682
-    second: Fuego completo.png_34
+      213: -7323398285814144151
+    second: Fuego.png (1)_34
   - first:
-      213: -8629089242397351725
-    second: Fuego completo.png_35
+      213: 7716896229172800700
+    second: Fuego.png (1)_35
   - first:
-      213: -8014026050288606900
-    second: Fuego completo.png_36
+      213: -2718590786258707364
+    second: Fuego.png (1)_36
   - first:
-      213: 1217340599311802015
-    second: Fuego completo.png_37
+      213: -5939866230108478231
+    second: Fuego.png (1)_37
   - first:
-      213: -2033472645655018946
-    second: Fuego completo.png_38
+      213: 1773129819069037771
+    second: Fuego.png (1)_38
   - first:
-      213: -4146665850431446922
-    second: Fuego completo.png_39
+      213: 5290927561034190400
+    second: Fuego.png (1)_39
   - first:
-      213: 745626298977078175
-    second: Fuego completo.png_40
+      213: 2555856205924361089
+    second: Fuego.png (1)_40
   - first:
-      213: -7225503171826033672
-    second: Fuego completo.png_41
+      213: 1000810498979462089
+    second: Fuego.png (1)_41
   - first:
-      213: 5434865068348116380
-    second: Fuego completo.png_42
+      213: -2642819019964460574
+    second: Fuego.png (1)_42
   - first:
-      213: 8788164893483309038
-    second: Fuego completo.png_43
+      213: 4147350320597990952
+    second: Fuego.png (1)_43
   - first:
-      213: -7787743103345136032
-    second: Fuego completo.png_44
+      213: -6846082328643864013
+    second: Fuego.png (1)_44
   - first:
-      213: 8294451249060248959
-    second: Fuego completo.png_45
+      213: -7315041743522918371
+    second: Fuego.png (1)_45
   - first:
-      213: 3609717511219458189
-    second: Fuego completo.png_46
+      213: 4992706241003323555
+    second: Fuego.png (1)_46
   - first:
-      213: 3898060007699526642
-    second: Fuego completo.png_47
+      213: -2275676189204950711
+    second: Fuego.png (1)_47
   - first:
-      213: -5407098689457883849
-    second: Fuego completo.png_48
+      213: -3671614296187249810
+    second: Fuego.png (1)_48
   - first:
-      213: 1064146449999931883
-    second: Fuego completo.png_49
+      213: 3158071056538107906
+    second: Fuego.png (1)_49
   - first:
-      213: -4196971866599837748
-    second: Fuego completo.png_50
+      213: 2106111421906055505
+    second: Fuego.png (1)_50
   - first:
-      213: 5778259910679198687
-    second: Fuego completo.png_51
+      213: 5780237985052886968
+    second: Fuego.png (1)_51
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -279,1123 +279,1123 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fuego completo.png_0
+      name: Fuego.png (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 1024
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 882eb1220bf73efb0800000000000000
-      internalID: -4619708398288772472
+      spriteID: 71795a15df88b03c0800000000000000
+      internalID: -4392266389991876841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_2
+      name: Fuego.png (1)_2
       rect:
         serializedVersion: 2
         x: 0
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab4b6ce1d3550cbf0800000000000000
-      internalID: -306151053663488838
+      spriteID: 5db1fe0457f6db190800000000000000
+      internalID: -7945071618220418091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_3
+      name: Fuego.png (1)_3
       rect:
         serializedVersion: 2
         x: 128
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf86564cd77d22820800000000000000
-      internalID: 2892110845891143931
+      spriteID: e0bdd88ad112dc700800000000000000
+      internalID: 562141939756817166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_4
+      name: Fuego.png (1)_4
       rect:
         serializedVersion: 2
         x: 256
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4d8edd48b1044fa0800000000000000
-      internalID: -5817522927563797173
+      spriteID: 7a917ccdd154b6d20800000000000000
+      internalID: 3272785548775201191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_5
+      name: Fuego.png (1)_5
       rect:
         serializedVersion: 2
         x: 384
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6eb3e3330b7c478f0800000000000000
-      internalID: -543590095417099290
+      spriteID: acd98e2a92efc28d0800000000000000
+      internalID: -2869639407761580598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_6
+      name: Fuego.png (1)_6
       rect:
         serializedVersion: 2
         x: 512
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 774cb1563673fa8e0800000000000000
-      internalID: -1680063235948297097
+      spriteID: 4f35f21b41971b030800000000000000
+      internalID: 3508718714477302772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_7
+      name: Fuego.png (1)_7
       rect:
         serializedVersion: 2
         x: 640
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4d83fb4142cdec10800000000000000
-      internalID: 2084535788245323083
+      spriteID: 2b1f781ded3b00740800000000000000
+      internalID: 5116286946272342450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_8
+      name: Fuego.png (1)_8
       rect:
         serializedVersion: 2
         x: 768
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43e74f21d76529230800000000000000
-      internalID: 3644070143685066292
+      spriteID: 49fa1dee07ecec3a0800000000000000
+      internalID: -6643145415886524524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_9
+      name: Fuego.png (1)_9
       rect:
         serializedVersion: 2
         x: 896
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14cbfed6624a53f30800000000000000
-      internalID: 4554727083115265089
+      spriteID: 9013e8936e2327130800000000000000
+      internalID: 3562966219592970505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_10
+      name: Fuego.png (1)_10
       rect:
         serializedVersion: 2
         x: 1024
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19f17906ae1ae5b50800000000000000
-      internalID: 6583877733277179793
+      spriteID: 6bdbf32f85c022320800000000000000
+      internalID: 2531599516696559030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_11
+      name: Fuego.png (1)_11
       rect:
         serializedVersion: 2
         x: 1152
         y: 896
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ef8664c8d2a985d0800000000000000
-      internalID: -3059735419929849886
+      spriteID: 81e53f35baa0ede30800000000000000
+      internalID: 4530070006145441304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_12
+      name: Fuego.png (1)_12
       rect:
         serializedVersion: 2
         x: 0
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44acd417b9e9be780800000000000000
-      internalID: -8652647868604233148
+      spriteID: 8f267e4adf7764fb0800000000000000
+      internalID: -4663908432818511112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_13
+      name: Fuego.png (1)_13
       rect:
         serializedVersion: 2
         x: 128
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8bec3664911183670800000000000000
-      internalID: 8518577495424093880
+      spriteID: e852f26fb630d8ee0800000000000000
+      internalID: -1257344958739831410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_14
+      name: Fuego.png (1)_14
       rect:
         serializedVersion: 2
         x: 256
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22ee88443cdc43d70800000000000000
-      internalID: 9022062192082087458
+      spriteID: caaa72cdc750f7630800000000000000
+      internalID: 3926863433918032556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_15
+      name: Fuego.png (1)_15
       rect:
         serializedVersion: 2
         x: 384
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c65011fd9eb5fcfb0800000000000000
-      internalID: -4625377232258267796
+      spriteID: b723bbdd597dcb6b0800000000000000
+      internalID: -5279107624514932101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_16
+      name: Fuego.png (1)_16
       rect:
         serializedVersion: 2
         x: 512
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9add572f08eca8530800000000000000
-      internalID: 3858123084015197609
+      spriteID: 5783c2ec6011198c0800000000000000
+      internalID: -3994392673574438795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_17
+      name: Fuego.png (1)_17
       rect:
         serializedVersion: 2
         x: 640
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2320051c168727ec0800000000000000
-      internalID: -3570659193300975054
+      spriteID: f341438cb4fd43940800000000000000
+      internalID: 5275086580132090943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_18
+      name: Fuego.png (1)_18
       rect:
         serializedVersion: 2
         x: 768
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 282650d412fc13220800000000000000
-      internalID: 2463978213081440898
+      spriteID: 71e67a1f59e531920800000000000000
+      internalID: 2959813378209967639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_19
+      name: Fuego.png (1)_19
       rect:
         serializedVersion: 2
         x: 896
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f248b4208e24ab10800000000000000
-      internalID: 1991768063111348976
+      spriteID: d4a4dc59e287a9740800000000000000
+      internalID: 5159568464583412301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_20
+      name: Fuego.png (1)_20
       rect:
         serializedVersion: 2
         x: 1024
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3580fe4876935d80800000000000000
-      internalID: -8263095447830100676
+      spriteID: dc3c02565dddcb4a0800000000000000
+      internalID: -6576137447273348147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_21
+      name: Fuego.png (1)_21
       rect:
         serializedVersion: 2
         x: 1152
         y: 768
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e040d187af72d650800000000000000
-      internalID: 6256203189785215206
+      spriteID: 1f98afbe42b77dfe0800000000000000
+      internalID: -1164326580143879695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_22
+      name: Fuego.png (1)_22
       rect:
         serializedVersion: 2
         x: 0
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee487a814fce16f60800000000000000
-      internalID: 8025956544080741614
+      spriteID: 2fd23edfbbd90bef0800000000000000
+      internalID: -94402161430811150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_23
+      name: Fuego.png (1)_23
       rect:
         serializedVersion: 2
         x: 128
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d008328d078903f20800000000000000
-      internalID: 3400385329094688781
+      spriteID: 02d101a77bdd9f800800000000000000
+      internalID: 646791801601006880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_24
+      name: Fuego.png (1)_24
       rect:
         serializedVersion: 2
         x: 256
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf905eb16f8894b00800000000000000
-      internalID: 813331798328412667
+      spriteID: 322fab2f05bf44040800000000000000
+      internalID: 4631102641932005923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_25
+      name: Fuego.png (1)_25
       rect:
         serializedVersion: 2
         x: 384
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0dfa103ea81110aa0800000000000000
-      internalID: -6196652324073394224
+      spriteID: a4d3bdf02f6db00a0800000000000000
+      internalID: -6914196467760808630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_26
+      name: Fuego.png (1)_26
       rect:
         serializedVersion: 2
         x: 512
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12345b90753144e20800000000000000
-      internalID: 3333810888706966305
+      spriteID: b3610b5d9a5fe7dc0800000000000000
+      internalID: -3639201339085416901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_27
+      name: Fuego.png (1)_27
       rect:
         serializedVersion: 2
         x: 640
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a3b0812185833abd0800000000000000
-      internalID: -2620188607287653574
+      spriteID: 2fd171d156fa96e90800000000000000
+      internalID: -7031896494347706894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_28
+      name: Fuego.png (1)_28
       rect:
         serializedVersion: 2
         x: 768
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9a5832b7cb2663e0800000000000000
-      internalID: -2060911642786899297
+      spriteID: 0273d958dc2b8c610800000000000000
+      internalID: 1641758659956258592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_29
+      name: Fuego.png (1)_29
       rect:
         serializedVersion: 2
         x: 896
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3fa3278bfe8ce07b0800000000000000
-      internalID: -5256042783177557261
+      spriteID: c48a706b1dac0bcf0800000000000000
+      internalID: -238467778199705524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_30
+      name: Fuego.png (1)_30
       rect:
         serializedVersion: 2
         x: 1024
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 533ab7948967050b0800000000000000
-      internalID: -5741959128457436363
+      spriteID: ddb0dc3552ff48360800000000000000
+      internalID: 7171137042465491933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_31
+      name: Fuego.png (1)_31
       rect:
         serializedVersion: 2
         x: 1152
         y: 640
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c22a834496bb51e20800000000000000
-      internalID: 3320766361046131244
+      spriteID: 82545d72ff807e520800000000000000
+      internalID: 2731161591001466152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_32
+      name: Fuego.png (1)_32
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cfbf895dc4d541b90800000000000000
-      internalID: -7272084913714037764
+      spriteID: 41c99c64b7618e1b0800000000000000
+      internalID: -5627223015675028460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_33
+      name: Fuego.png (1)_33
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e6d7b113858e91b0800000000000000
-      internalID: -5647930084691552541
+      spriteID: f30b40491b44e09b0800000000000000
+      internalID: -5112072997535698881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_34
+      name: Fuego.png (1)_34
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26aef7c166256a140800000000000000
-      internalID: 4730559057117571682
+      spriteID: 963e7516f001e5a90800000000000000
+      internalID: -7323398285814144151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_35
+      name: Fuego.png (1)_35
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d0e2cb8d015f3880800000000000000
-      internalID: -8629089242397351725
+      spriteID: cbc656c0c3ce71b60800000000000000
+      internalID: 7716896229172800700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_36
+      name: Fuego.png (1)_36
       rect:
         serializedVersion: 2
         x: 512
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4122d374c578c090800000000000000
-      internalID: -8014026050288606900
+      spriteID: c5c56676510a54ad0800000000000000
+      internalID: -2718590786258707364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_37
+      name: Fuego.png (1)_37
       rect:
         serializedVersion: 2
         x: 640
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9e14a843dcd4e010800000000000000
-      internalID: 1217340599311802015
+      spriteID: 9e4ab0d622b519da0800000000000000
+      internalID: -5939866230108478231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_38
+      name: Fuego.png (1)_38
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e32424f0767a7c3e0800000000000000
-      internalID: -2033472645655018946
+      spriteID: bcc334e0d2c6b9810800000000000000
+      internalID: 1773129819069037771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_39
+      name: Fuego.png (1)_39
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6706ac601651476c0800000000000000
-      internalID: -4146665850431446922
+      spriteID: 04e44cf85962d6940800000000000000
+      internalID: 5290927561034190400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_40
+      name: Fuego.png (1)_40
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9bc7bd1b2ff85a00800000000000000
-      internalID: 745626298977078175
+      spriteID: 18369138da9387320800000000000000
+      internalID: 2555856205924361089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_41
+      name: Fuego.png (1)_41
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fbd9d7c52bd9bb90800000000000000
-      internalID: -7225503171826033672
+      spriteID: 9cbf627a8d793ed00800000000000000
+      internalID: 1000810498979462089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_43
+      name: Fuego.png (1)_43
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee791afa865d5f970800000000000000
-      internalID: 8788164893483309038
+      spriteID: 82e785a94295e8930800000000000000
+      internalID: 4147350320597990952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_44
+      name: Fuego.png (1)_44
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06e6d13a8e06ce390800000000000000
-      internalID: -7787743103345136032
+      spriteID: 33a7a1ae464ddf0a0800000000000000
+      internalID: -6846082328643864013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_45
+      name: Fuego.png (1)_45
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7df703177fcb1370800000000000000
-      internalID: 8294451249060248959
+      spriteID: d1099208a40cb7a90800000000000000
+      internalID: -7315041743522918371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_46
+      name: Fuego.png (1)_46
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d803ebb83fa481230800000000000000
-      internalID: 3609717511219458189
+      spriteID: 3a001eaafd7a94540800000000000000
+      internalID: 4992706241003323555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_48
+      name: Fuego.png (1)_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941df9e109c2b60e0800000000000000
+      internalID: -2275676189204950711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego.png (1)_48
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 735f165d36026f4b0800000000000000
-      internalID: -5407098689457883849
+      spriteID: e6b538b204ecb0dc0800000000000000
+      internalID: -3671614296187249810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_49
+      name: Fuego.png (1)_49
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be92d35ee8b94ce00800000000000000
-      internalID: 1064146449999931883
+      spriteID: 200856cc4e8b3db20800000000000000
+      internalID: 3158071056538107906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_50
+      name: Fuego.png (1)_50
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccf2207e25c51c5c0800000000000000
-      internalID: -4196971866599837748
+      spriteID: 1517a18fd296a3d10800000000000000
+      internalID: 2106111421906055505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_51
+      name: Fuego.png (1)_51
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdbf9e336c0803050800000000000000
-      internalID: 5778259910679198687
+      spriteID: 8b70c4882d7873050800000000000000
+      internalID: 5780237985052886968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fuego completo.png_47
+      name: Fuego.png (1)_52
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 384
+        y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0553527cea817224fb036f6bfdb1ea69
-      internalID: 3898060007699526642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fuego completo.png_52
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c59eee187a8c6049b13707a105ee41d
-      internalID: 981503761
+      spriteID: 600d73171e6fa4643a449a16247704ce
+      internalID: 1961185410
       vertices: []
       indices: 
       edges: []
@@ -1404,7 +1404,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e4dd4ea725debd14ba170b6edd6adbf0
+    spriteID: ec2fee40a1149fe46a6e9e9928c61dd2
     internalID: 0
     vertices: []
     indices: 
@@ -1414,61 +1414,61 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Fuego completo.png_0: -4619708398288772472
-      Fuego completo.png_1: -981635199269438399
-      Fuego completo.png_10: 6583877733277179793
-      Fuego completo.png_11: -3059735419929849886
-      Fuego completo.png_12: -8652647868604233148
-      Fuego completo.png_13: 8518577495424093880
-      Fuego completo.png_14: 9022062192082087458
-      Fuego completo.png_15: -4625377232258267796
-      Fuego completo.png_16: 3858123084015197609
-      Fuego completo.png_17: -3570659193300975054
-      Fuego completo.png_18: 2463978213081440898
-      Fuego completo.png_19: 1991768063111348976
-      Fuego completo.png_2: -306151053663488838
-      Fuego completo.png_20: -8263095447830100676
-      Fuego completo.png_21: 6256203189785215206
-      Fuego completo.png_22: 8025956544080741614
-      Fuego completo.png_23: 3400385329094688781
-      Fuego completo.png_24: 813331798328412667
-      Fuego completo.png_25: -6196652324073394224
-      Fuego completo.png_26: 3333810888706966305
-      Fuego completo.png_27: -2620188607287653574
-      Fuego completo.png_28: -2060911642786899297
-      Fuego completo.png_29: -5256042783177557261
-      Fuego completo.png_3: 2892110845891143931
-      Fuego completo.png_30: -5741959128457436363
-      Fuego completo.png_31: 3320766361046131244
-      Fuego completo.png_32: -7272084913714037764
-      Fuego completo.png_33: -5647930084691552541
-      Fuego completo.png_34: 4730559057117571682
-      Fuego completo.png_35: -8629089242397351725
-      Fuego completo.png_36: -8014026050288606900
-      Fuego completo.png_37: 1217340599311802015
-      Fuego completo.png_38: -2033472645655018946
-      Fuego completo.png_39: -4146665850431446922
-      Fuego completo.png_4: -5817522927563797173
-      Fuego completo.png_40: 745626298977078175
-      Fuego completo.png_41: -7225503171826033672
-      Fuego completo.png_42: 5434865068348116380
-      Fuego completo.png_43: 8788164893483309038
-      Fuego completo.png_44: -7787743103345136032
-      Fuego completo.png_45: 8294451249060248959
-      Fuego completo.png_46: 3609717511219458189
-      Fuego completo.png_47: 3898060007699526642
-      Fuego completo.png_48: -5407098689457883849
-      Fuego completo.png_49: 1064146449999931883
-      Fuego completo.png_5: -543590095417099290
-      Fuego completo.png_50: -4196971866599837748
-      Fuego completo.png_51: 5778259910679198687
-      Fuego completo.png_52: 981503761
-      Fuego completo.png_6: -1680063235948297097
-      Fuego completo.png_7: 2084535788245323083
-      Fuego completo.png_8: 3644070143685066292
-      Fuego completo.png_9: 4554727083115265089
+      Fuego.png (1)_0: -4392266389991876841
+      Fuego.png (1)_1: -3049345428585011016
+      Fuego.png (1)_10: 2531599516696559030
+      Fuego.png (1)_11: 4530070006145441304
+      Fuego.png (1)_12: -4663908432818511112
+      Fuego.png (1)_13: -1257344958739831410
+      Fuego.png (1)_14: 3926863433918032556
+      Fuego.png (1)_15: -5279107624514932101
+      Fuego.png (1)_16: -3994392673574438795
+      Fuego.png (1)_17: 5275086580132090943
+      Fuego.png (1)_18: 2959813378209967639
+      Fuego.png (1)_19: 5159568464583412301
+      Fuego.png (1)_2: -7945071618220418091
+      Fuego.png (1)_20: -6576137447273348147
+      Fuego.png (1)_21: -1164326580143879695
+      Fuego.png (1)_22: -94402161430811150
+      Fuego.png (1)_23: 646791801601006880
+      Fuego.png (1)_24: 4631102641932005923
+      Fuego.png (1)_25: -6914196467760808630
+      Fuego.png (1)_26: -3639201339085416901
+      Fuego.png (1)_27: -7031896494347706894
+      Fuego.png (1)_28: 1641758659956258592
+      Fuego.png (1)_29: -238467778199705524
+      Fuego.png (1)_3: 562141939756817166
+      Fuego.png (1)_30: 7171137042465491933
+      Fuego.png (1)_31: 2731161591001466152
+      Fuego.png (1)_32: -5627223015675028460
+      Fuego.png (1)_33: -5112072997535698881
+      Fuego.png (1)_34: -7323398285814144151
+      Fuego.png (1)_35: 7716896229172800700
+      Fuego.png (1)_36: -2718590786258707364
+      Fuego.png (1)_37: -5939866230108478231
+      Fuego.png (1)_38: 1773129819069037771
+      Fuego.png (1)_39: 5290927561034190400
+      Fuego.png (1)_4: 3272785548775201191
+      Fuego.png (1)_40: 2555856205924361089
+      Fuego.png (1)_41: 1000810498979462089
+      Fuego.png (1)_42: -2642819019964460574
+      Fuego.png (1)_43: 4147350320597990952
+      Fuego.png (1)_44: -6846082328643864013
+      Fuego.png (1)_45: -7315041743522918371
+      Fuego.png (1)_46: 4992706241003323555
+      Fuego.png (1)_47: -2275676189204950711
+      Fuego.png (1)_48: -3671614296187249810
+      Fuego.png (1)_49: 3158071056538107906
+      Fuego.png (1)_5: -2869639407761580598
+      Fuego.png (1)_50: 2106111421906055505
+      Fuego.png (1)_51: 5780237985052886968
+      Fuego.png (1)_52: 1961185410
+      Fuego.png (1)_6: 3508718714477302772
+      Fuego.png (1)_7: 5116286946272342450
+      Fuego.png (1)_8: -6643145415886524524
+      Fuego.png (1)_9: 3562966219592970505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
