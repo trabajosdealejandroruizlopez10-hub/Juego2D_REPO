@@ -105,7 +105,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -119,19 +119,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -176,10 +163,10 @@ TextureImporter:
       name: Casas Mdificadas_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 2039
-        width: 175
-        height: 110
+        x: 0
+        y: 2038
+        width: 177
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +185,10 @@ TextureImporter:
       name: Casas Mdificadas_1
       rect:
         serializedVersion: 2
-        x: 183
-        y: 2040
-        width: 238
-        height: 109
+        x: 182
+        y: 2039
+        width: 240
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +207,10 @@ TextureImporter:
       name: Casas Mdificadas_2
       rect:
         serializedVersion: 2
-        x: 426
-        y: 2024
-        width: 126
-        height: 122
+        x: 425
+        y: 2023
+        width: 128
+        height: 124
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +229,10 @@ TextureImporter:
       name: Casas Mdificadas_3
       rect:
         serializedVersion: 2
-        x: 565
-        y: 1973
-        width: 179
-        height: 176
+        x: 564
+        y: 1972
+        width: 183
+        height: 177
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +251,10 @@ TextureImporter:
       name: Casas Mdificadas_4
       rect:
         serializedVersion: 2
-        x: 747
-        y: 2030
-        width: 148
-        height: 94
+        x: 761
+        y: 2029
+        width: 152
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +273,10 @@ TextureImporter:
       name: Casas Mdificadas_5
       rect:
         serializedVersion: 2
-        x: 928
-        y: 2024
-        width: 250
-        height: 97
+        x: 944
+        y: 2023
+        width: 252
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +295,10 @@ TextureImporter:
       name: Casas Mdificadas_6
       rect:
         serializedVersion: 2
-        x: 1219
-        y: 2009
-        width: 113
-        height: 125
+        x: 1235
+        y: 2008
+        width: 115
+        height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +317,10 @@ TextureImporter:
       name: Casas Mdificadas_7
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 2009
-        width: 91
-        height: 75
+        x: 1385
+        y: 2008
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,7 +339,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b6fb250a419a492409efab31bb2777f1
+    spriteID: a4fdb5cebdc885c42b99c3217eb5ce60
     internalID: 0
     vertices: []
     indices: 
