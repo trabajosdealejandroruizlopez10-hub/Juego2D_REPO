@@ -21,28 +21,33 @@ public class FireCauldronSpawner : MonoBehaviour
         if (timer >= spawnInterval)
         {
             timer = 0f;
-            SpawnWave();
+            StartCoroutine(SpawnWaveCoroutine());
         }
-    }
-
-    private void SpawnWave()
-    {
-        StartCoroutine(SpawnWaveCoroutine());
     }
 
     private IEnumerator SpawnWaveCoroutine()
     {
         for (int i = 0; i < stonesPerWave; i++)
         {
-            GameObject stone = Instantiate(stoneEnemyPrefab, shootPoint.position, Quaternion.identity);
-            JumpingFollower follower = stone.GetComponent<JumpingFollower>();
-            follower.player = player;
+            GameObject stone = Instantiate(
+                stoneEnemyPrefab,
+                shootPoint.position,
+                Quaternion.identity
+            );
 
-            yield return new WaitForSeconds(0.5f); // espera medio segundo antes de la siguiente piedra
+            JumpingFollower follower = stone.GetComponent<JumpingFollower>();
+
+            if (follower != null)
+            {
+                follower.player = player;
+            }
+            else
+            {
+                Debug.LogError("El prefab no tiene el componente JumpingFollower");
+            }
+
+            yield return new WaitForSeconds(0.5f);
         }
     }
-
-
 }
-
 

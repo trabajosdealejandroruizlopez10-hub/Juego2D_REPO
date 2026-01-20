@@ -1,30 +1,41 @@
 using UnityEngine;
 
-public class FireRockMovement : MonoBehaviour
+public class JumpingFollower : MonoBehaviour
 {
-    public float jumpForce = 5f;
-    public float forwardSpeed = 2f;
-    private Rigidbody2D rb;
+    [Header("References")]
+    public Transform player;
 
-    void Awake()
+    [Header("Movement")]
+    [SerializeField] private float jumpForce = 6f;
+    [SerializeField] private float moveSpeed = 3f;
+    [SerializeField] private float jumpCooldown = 1.5f;
+
+    private Rigidbody2D rb;
+    private float jumpTimer;
+
+    private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    public void Launch()
+    private void Update()
     {
+        if (player == null) return;
+
+        jumpTimer += Time.deltaTime;
+
+        if (jumpTimer >= jumpCooldown)
+        {
+            JumpTowardsPlayer();
+            jumpTimer = 0f;
+        }
+    }
+
+    private void JumpTowardsPlayer()
+    {
+        Vector2 direction = (player.position - transform.position).normalized;
+
         rb.linearVelocity = Vector2.zero;
-        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-    }
-
-    void FixedUpdate()
-    {
-        rb.linearVelocity = new Vector2(forwardSpeed, rb.linearVelocity.y);
-    }
-
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce / 2f);
+        rb.AddForce(new Vector2(direction.x * moveSpeed, jumpForce), ForceMode2D.Impulse);
     }
 }
