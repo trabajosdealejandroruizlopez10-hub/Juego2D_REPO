@@ -1,19 +1,53 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+using System.Collections;
 
-public class PlayerAttackLight : MonoBehaviour
+public class PlayerAttack : MonoBehaviour
 {
-    [SerializeField] private GameObject hitbox;
-    [SerializeField] private float duration = 0.2f;
+    [Header("Referencias")]
+    [SerializeField] private GameObject swordHitbox; 
+    [SerializeField] private Animator anim;          
 
-    public void DoAttack()
+    private bool isAttacking;
+
+    void Awake()
     {
-        hitbox.SetActive(true);
-        Invoke(nameof(DisableHitbox), duration);
+        if (anim == null)
+            anim = GetComponent<Animator>();
+
+        swordHitbox.SetActive(false);
     }
 
-    private void DisableHitbox()
+    public void OnAttack(InputAction.CallbackContext context)
     {
-        hitbox.SetActive(false);
+        if (context.performed && !isAttacking)
+        {
+            Attack();
+        }
+    }
+
+    void Attack()
+    {
+        isAttacking = true;
+        anim.SetBool("isAttacking", true);
+    }
+
+
+
+    public void EnableSwordHitbox()
+    {
+        swordHitbox.SetActive(true);
+    }
+
+    public void DisableSwordHitbox()
+    {
+        swordHitbox.SetActive(false);
+        EndAttack(); 
+    }
+
+    void EndAttack()
+    {
+        anim.SetBool("isAttacking", false);
+        isAttacking = false;
     }
 }
-

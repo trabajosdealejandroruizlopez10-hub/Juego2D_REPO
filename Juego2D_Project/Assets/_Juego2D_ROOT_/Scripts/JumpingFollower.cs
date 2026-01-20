@@ -1,54 +1,30 @@
-using System.Collections;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(Collider2D))]
-public class JumpingFollower : MonoBehaviour
+public class FireRockMovement : MonoBehaviour
 {
-    [Header("Target Player")]
-    public Transform player; // Arrastra tu Player aquí desde el Inspector
-
-    [Header("Movement Settings")]
-    public float moveSpeed = 2f;      // Velocidad horizontal
-    public float jumpForce = 5f;      // Fuerza vertical del salto
-    public float jumpCooldown = 0.5f; // Tiempo entre saltos
-
-    [Header("Ground Check")]
-    public Transform groundCheck;       // Empty en la base de la piedra
-    public float groundCheckRadius = 0.1f;
-    public LayerMask groundLayer;       // Layer del suelo
-
+    public float jumpForce = 5f;
+    public float forwardSpeed = 2f;
     private Rigidbody2D rb;
-    private float jumpTimer;
 
-    private void Awake()
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
+    public void Launch()
     {
-        if (player == null) return;
-
-        jumpTimer += Time.deltaTime;
-
-        // Calcula dirección horizontal hacia el Player
-        float dirX = player.position.x - transform.position.x;
-
-        // Voltea sprite según dirección
-        if (dirX != 0)
-            transform.localScale = new Vector3(Mathf.Sign(dirX), 1, 1);
-
-        // Saltito solo si está en el suelo y el cooldown pasó
-        if (jumpTimer >= jumpCooldown && IsGrounded())
-        {
-            jumpTimer = 0f;
-            rb.linearVelocity = new Vector2(Mathf.Sign(dirX) * moveSpeed, jumpForce);
-        }
+        rb.linearVelocity = Vector2.zero;
+        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
     }
 
-    private bool IsGrounded()
+    void FixedUpdate()
     {
-        return Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        rb.linearVelocity = new Vector2(forwardSpeed, rb.linearVelocity.y);
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce / 2f);
     }
 }
