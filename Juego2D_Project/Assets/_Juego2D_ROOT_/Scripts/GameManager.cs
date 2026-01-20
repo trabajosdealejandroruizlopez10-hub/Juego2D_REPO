@@ -1,39 +1,38 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Video;
+using System.Collections;
 
-public class GameManager : MonoBehaviour
+public class CollectibleSceneChange : MonoBehaviour
 {
-    public static GameManager instance;
+    public string sceneToLoad;
+    public VideoPlayer videoPlayer;
+    public GameObject videoCanvas;
 
-    private void Awake()
+    private bool isPlaying = false;
+
+    public void StartTransition()
     {
-        // Singleton
-        if (instance == null)
-        {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+        if (isPlaying) return;
+        isPlaying = true;
+
+        videoCanvas.SetActive(true);
+        StartCoroutine(PlayVideo());
     }
 
-    // Método para cambiar de escena
-    public void LoadScene(string sceneName)
+    IEnumerator PlayVideo()
     {
-        SceneManager.LoadScene(sceneName);
+        videoPlayer.Prepare();
+        while (!videoPlayer.isPrepared)
+            yield return null;
+
+        videoPlayer.loopPointReached += OnVideoFinished;
+        videoPlayer.Play();
     }
 
-    // Método opcional: cargar por índice
-    public void LoadScene(int sceneIndex)
+    void OnVideoFinished(VideoPlayer vp)
     {
-        SceneManager.LoadScene(sceneIndex);
-    }
-
-    // Método opcional: salir del juego
-    public void QuitGame()
-    {
-        Application.Quit();
+        SceneManager.LoadScene(sceneToLoad);
     }
 }
+

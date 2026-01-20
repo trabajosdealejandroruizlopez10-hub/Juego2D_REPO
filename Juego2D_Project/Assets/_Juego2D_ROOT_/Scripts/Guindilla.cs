@@ -1,26 +1,15 @@
 using UnityEngine;
 
-public class Collectible : MonoBehaviour
+public class Guindilla : MonoBehaviour
 {
-    public int value = 1;
-    public string sceneToLoad;
-
-    private bool collected = false;
+    public CollectibleSceneChange sceneChanger;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && !collected)
+        if (other.CompareTag("Player"))
         {
-            collected = true;
-
-            // Ejemplo: sumar puntos
-            // GameManager.instance.AddScore(value);
-
-            // Cambiar de escena
-            GameManager.instance.LoadScene(sceneToLoad);
-
-            // Opcional si no cambias de escena inmediatamente
-            // Destroy(gameObject);
+            sceneChanger.StartTransition();
+            gameObject.SetActive(false); // desaparece la guindilla
         }
     }
 }
