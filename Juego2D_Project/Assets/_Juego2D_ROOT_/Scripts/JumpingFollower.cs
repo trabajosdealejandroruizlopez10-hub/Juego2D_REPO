@@ -5,13 +5,15 @@ public class JumpingFollower : MonoBehaviour
     [Header("References")]
     public Transform player;
 
-    [Header("Movement")]
+    [Header("Movement & Jump")]
     [SerializeField] private float jumpForce = 6f;
     [SerializeField] private float moveSpeed = 3f;
-    [SerializeField] private float jumpCooldown = 1.5f;
+    [SerializeField] private Transform groundCheck; // Empty debajo de la piedra
+    [SerializeField] private float groundCheckRadius = 0.2f;
+    [SerializeField] private LayerMask groundLayer;
 
     private Rigidbody2D rb;
-    private float jumpTimer;
+    private bool isGrounded;
 
     private void Awake()
     {
@@ -22,12 +24,15 @@ public class JumpingFollower : MonoBehaviour
     {
         if (player == null) return;
 
-        jumpTimer += Time.deltaTime;
+        // Revisar si está tocando el suelo
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+    }
 
-        if (jumpTimer >= jumpCooldown)
+    private void FixedUpdate()
+    {
+        if (isGrounded)
         {
             JumpTowardsPlayer();
-            jumpTimer = 0f;
         }
     }
 
@@ -35,7 +40,8 @@ public class JumpingFollower : MonoBehaviour
     {
         Vector2 direction = (player.position - transform.position).normalized;
 
-        rb.linearVelocity = Vector2.zero;
-        rb.AddForce(new Vector2(direction.x * moveSpeed, jumpForce), ForceMode2D.Impulse);
+        rb.linearVelocity = new Vector2(direction.x * moveSpeed, 0f);
+
+        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
     }
 }
