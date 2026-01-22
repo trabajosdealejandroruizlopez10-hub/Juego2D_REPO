@@ -2,42 +2,25 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    [Header("Attack")]
     public GameObject swordHitbox;
-    public float attackCooldown = 0.3f;
+    public int damage = 25;
+    public float attackDuration = 0.3f;
 
-    private bool canAttack = true;
-    private Animator anim;
-
-    private void Awake()
+    void Update()
     {
-        anim = GetComponent<Animator>();
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Attack();
+        }
     }
 
-    public void OnAttack()
-    {
-        if (!canAttack) return;
-
-        canAttack = false;
-
-        if (anim != null)
-            anim.SetTrigger("Attack");
-
-        Invoke(nameof(ResetAttack), attackCooldown);
-    }
-
-    void ResetAttack()
-    {
-        canAttack = true;
-    }
-
-    // LLAMADAS DESDE ANIMATION EVENT
-    public void EnableHitbox()
+    void Attack()
     {
         swordHitbox.SetActive(true);
+        Invoke(nameof(StopAttack), attackDuration);
     }
 
-    public void DisableHitbox()
+    void StopAttack()
     {
         swordHitbox.SetActive(false);
     }

@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -11,15 +12,24 @@ public class PlayerHealth : MonoBehaviour
 
     [Header("Invencibilidad")]
     public float invincibilityTime = 1f;
+    public float blinkInterval = 0.1f;
     private bool isInvincible = false;
+
+    private SpriteRenderer spriteRenderer;
+    private Rigidbody2D rb;
 
     void Start()
     {
         currentHealth = maxHealth;
 
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
+
         if (respawnPoint == null)
         {
-            respawnPoint = GameObject.Find("RespawnPoint")?.transform;
+            GameObject rp = GameObject.Find("RespawnPoint");
+            if (rp != null)
+                respawnPoint = rp.transform;
         }
     }
 
@@ -28,6 +38,7 @@ public class PlayerHealth : MonoBehaviour
         if (isInvincible) return;
 
         currentHealth -= damage;
+        Debug.Log("Vida actual: " + currentHealth);
 
         if (currentHealth <= 0)
         {
@@ -46,23 +57,35 @@ public class PlayerHealth : MonoBehaviour
 
     void Respawn()
     {
-       
+        
         currentHealth = maxHealth;
 
         
-        if (respawnPoint != null)
-        {
-            transform.position = respawnPoint.position;
-        }
+        if (rb != null)
+            rb.linearVelocity = Vector2.zero;
 
-      
+        
+        if (respawnPoint != null)
+            transform.position = respawnPoint.position;
+
+        
         StartCoroutine(Invincibility());
     }
 
-    System.Collections.IEnumerator Invincibility()
+    IEnumerator Invincibility()
     {
         isInvincible = true;
-        yield return new WaitForSeconds(invincibilityTime);
+
+        float timer = 0f;
+
+        while (timer < invincibilityTime)
+        {
+            spriteRenderer.enabled = !spriteRenderer.enabled;
+            yield return new WaitForSeconds(blinkInterval);
+            timer += blinkInterval;
+        }
+
+        spriteRenderer.enabled = true;
         isInvincible = false;
     }
 }
