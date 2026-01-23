@@ -437,7 +437,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_trap_1
+      name: fire_trap_3
       rect:
         serializedVersion: 2
         x: 278
@@ -481,7 +481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_trap_3
+      name: fire_trap_1
       rect:
         serializedVersion: 2
         x: 54
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_trap_0
+      name: fire_trap_4
       rect:
         serializedVersion: 2
         x: 390
@@ -560,9 +560,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      1: 677784087709848177
       4: 5676763913764871754
-      fire_trap_0: 988325478
-      fire_trap_1: -706956950387492002
+      fire_trap_1: 677784087709848177
       fire_trap_10: -174491566038350968
       fire_trap_11: -7966263880451779741
       fire_trap_12: -1094963469565498794
@@ -581,7 +581,7 @@ TextureImporter:
       fire_trap_26: -7099479047541319269
       fire_trap_27: 9034238940233436313
       fire_trap_29: -8187745160979112106
-      fire_trap_3: 677784087709848177
+      fire_trap_3: -706956950387492002
       fire_trap_30: -2055227170119066593
       fire_trap_31: -6476265821832254005
       fire_trap_32: 2680219258466358745
@@ -589,7 +589,7 @@ TextureImporter:
       fire_trap_34: -6134422475228763340
       fire_trap_36: -3746644790413687142
       fire_trap_38: 4669708449915230702
-      fire_trap_4: 5676763913764871754
+      fire_trap_4: 988325478
       fire_trap_40: 9100374031113020265
       fire_trap_41: 4610557018275520029
       fire_trap_42: 98469946073930356
