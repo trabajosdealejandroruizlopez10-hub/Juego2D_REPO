@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Video;
 using System.Collections;
@@ -10,11 +10,24 @@ public class CollectibleSceneChange : MonoBehaviour
     public GameObject videoCanvas;
 
     private bool isPlaying = false;
+    private AudioSource backgroundMusic;
+
+    void Start()
+    {
+        // Busca la música de fondo por tag
+        GameObject musicObj = GameObject.FindGameObjectWithTag("Music");
+        if (musicObj != null)
+            backgroundMusic = musicObj.GetComponent<AudioSource>();
+    }
 
     public void StartTransition()
     {
         if (isPlaying) return;
         isPlaying = true;
+
+        // ⏸️ Pausar música de fondo
+        if (backgroundMusic != null)
+            backgroundMusic.Pause();
 
         videoCanvas.SetActive(true);
         StartCoroutine(PlayVideo());
