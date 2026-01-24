@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 8f25fc131671f3d46a84ec4a587a789d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7020509000632040715
+    second: Spritesheet Jefe Juego 2D_0
+  - first:
+      213: 4021875463248881574
+    second: Spritesheet Jefe Juego 2D_1
+  - first:
+      213: -5954189322733870827
+    second: Spritesheet Jefe Juego 2D_2
+  - first:
+      213: 1514733719163162850
+    second: Spritesheet Jefe Juego 2D_3
+  - first:
+      213: -533363813163230692
+    second: Spritesheet Jefe Juego 2D_4
+  - first:
+      213: -5113174830035472407
+    second: Spritesheet Jefe Juego 2D_5
+  - first:
+      213: -4872396957837670304
+    second: Spritesheet Jefe Juego 2D_6
+  - first:
+      213: 5823504863879865928
+    second: Spritesheet Jefe Juego 2D_7
+  - first:
+      213: -4103868054191403237
+    second: Spritesheet Jefe Juego 2D_8
+  - first:
+      213: 4493976581311807612
+    second: Spritesheet Jefe Juego 2D_9
+  - first:
+      213: -6786013897457000425
+    second: Spritesheet Jefe Juego 2D_10
+  - first:
+      213: -8451159601561506955
+    second: Spritesheet Jefe Juego 2D_11
+  - first:
+      213: 1392652474888523273
+    second: Spritesheet Jefe Juego 2D_12
+  - first:
+      213: -7686017805462371687
+    second: Spritesheet Jefe Juego 2D_13
+  - first:
+      213: 1316653753648459679
+    second: Spritesheet Jefe Juego 2D_14
+  - first:
+      213: -2570813370776963322
+    second: Spritesheet Jefe Juego 2D_15
+  - first:
+      213: 8004973209300502766
+    second: Spritesheet Jefe Juego 2D_16
+  - first:
+      213: 6574971620652043977
+    second: Spritesheet Jefe Juego 2D_17
+  - first:
+      213: 4960149064244861757
+    second: Spritesheet Jefe Juego 2D_18
+  - first:
+      213: 5896278085221496964
+    second: Spritesheet Jefe Juego 2D_19
+  - first:
+      213: 7590681140060347244
+    second: Spritesheet Jefe Juego 2D_20
+  - first:
+      213: 8959863282579176090
+    second: Spritesheet Jefe Juego 2D_21
+  - first:
+      213: -2119091981845709913
+    second: Spritesheet Jefe Juego 2D_22
+  - first:
+      213: -1644653990111379257
+    second: Spritesheet Jefe Juego 2D_23
+  - first:
+      213: -6925640703523911375
+    second: Spritesheet Jefe Juego 2D_24
+  - first:
+      213: -1386288661861013018
+    second: Spritesheet Jefe Juego 2D_25
+  - first:
+      213: 8360054258303408435
+    second: Spritesheet Jefe Juego 2D_26
+  - first:
+      213: 5958042627390626250
+    second: Spritesheet Jefe Juego 2D_27
+  - first:
+      213: -146800737178481396
+    second: Spritesheet Jefe Juego 2D_28
+  - first:
+      213: -1026988991752526675
+    second: Spritesheet Jefe Juego 2D_29
+  - first:
+      213: -7082951805299696170
+    second: Spritesheet Jefe Juego 2D_30
+  - first:
+      213: 6935543917546946628
+    second: Spritesheet Jefe Juego 2D_31
+  - first:
+      213: -5695853586948744023
+    second: Spritesheet Jefe Juego 2D_32
+  - first:
+      213: 1617131644783893015
+    second: Spritesheet Jefe Juego 2D_33
+  - first:
+      213: 2715935414184052025
+    second: Spritesheet Jefe Juego 2D_34
+  - first:
+      213: -8728679542119818898
+    second: Spritesheet Jefe Juego 2D_35
+  - first:
+      213: 410592730915667459
+    second: Spritesheet Jefe Juego 2D_36
+  - first:
+      213: -8341012806125859735
+    second: Spritesheet Jefe Juego 2D_37
+  - first:
+      213: 7977708600108608412
+    second: Spritesheet Jefe Juego 2D_38
+  - first:
+      213: 1163897716124504341
+    second: Spritesheet Jefe Juego 2D_39
+  - first:
+      213: 8844795076674051380
+    second: Spritesheet Jefe Juego 2D_40
+  - first:
+      213: 6757914148559823824
+    second: Spritesheet Jefe Juego 2D_41
+  - first:
+      213: -1421938398192514554
+    second: Spritesheet Jefe Juego 2D_42
+  - first:
+      213: 8262089177227509137
+    second: Spritesheet Jefe Juego 2D_43
+  - first:
+      213: -4052820328424526610
+    second: Spritesheet Jefe Juego 2D_44
+  - first:
+      213: 6072085895303970887
+    second: Spritesheet Jefe Juego 2D_45
+  - first:
+      213: 7565039045469260356
+    second: Spritesheet Jefe Juego 2D_46
+  - first:
+      213: -9039943707323098211
+    second: Spritesheet Jefe Juego 2D_47
+  - first:
+      213: -6560293113043557713
+    second: Spritesheet Jefe Juego 2D_48
+  - first:
+      213: 8304406606550852978
+    second: Spritesheet Jefe Juego 2D_49
+  - first:
+      213: 949460497036213874
+    second: Spritesheet Jefe Juego 2D_50
+  - first:
+      213: -6994269676585770405
+    second: Spritesheet Jefe Juego 2D_51
+  - first:
+      213: 4542945398238263287
+    second: Spritesheet Jefe Juego 2D_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a72fcdcc6290d730800000000000000
+      internalID: 4021875463248881574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511260d8b587e5da0800000000000000
+      internalID: -5954189322733870827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0d60cca4a650510800000000000000
+      internalID: 1514733719163162850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9b54107c1998f0800000000000000
+      internalID: -533363813163230692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef6445359a5a09b0800000000000000
+      internalID: -5113174830035472407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068446b28c4c16cb0800000000000000
+      internalID: -4872396957837670304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a157c1de31d050800000000000000
+      internalID: 5823504863879865928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f09d87fb12c07c0800000000000000
+      internalID: -4103868054191403237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c30ef3efcd5e30800000000000000
+      internalID: 4493976581311807612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102639605c33d1a0800000000000000
+      internalID: -6786013897457000425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b6bc85e1377ba80800000000000000
+      internalID: -8451159601561506955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e8c4d1c02b35310800000000000000
+      internalID: 1392652474888523273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99286183787c55590800000000000000
+      internalID: -7686017805462371687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fa66eec91b54210800000000000000
+      internalID: 1316653753648459679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b30b2cd2a25cd0800000000000000
+      internalID: -2570813370776963322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee800e0c8b0671f60800000000000000
+      internalID: 8004973209300502766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce4d317addfe3b50800000000000000
+      internalID: 6574971620652043977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b1d4f3b4df5d440800000000000000
+      internalID: 4960149064244861757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4883c8ebda9c3d150800000000000000
+      internalID: 5896278085221496964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdd8c9744875960800000000000000
+      internalID: 7590681140060347244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a72322f24d75c70800000000000000
+      internalID: 8959863282579176090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab35b7e1197792e0800000000000000
+      internalID: -2119091981845709913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c08bf4e8e30d29e0800000000000000
+      internalID: -1644653990111379257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398878497e23ef90800000000000000
+      internalID: -6925640703523911375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e96f919ec9e2cce0800000000000000
+      internalID: -1386288661861013018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399a21fd01e40470800000000000000
+      internalID: 8360054258303408435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d04ad3383fa250800000000000000
+      internalID: 5958042627390626250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d06bfd18576fdf0800000000000000
+      internalID: -146800737178481396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4aa5604f66fb1f0800000000000000
+      internalID: -1026988991752526675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd56e33cdc44bd90800000000000000
+      internalID: -7082951805299696170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440c1896270004060800000000000000
+      internalID: 6935543917546946628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac1941375344f0b0800000000000000
+      internalID: -5695853586948744023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a136ab9a4317610800000000000000
+      internalID: 1617131644783893015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935085b9ed0f0b520800000000000000
+      internalID: 2715935414184052025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699ab5f3308dd680800000000000000
+      internalID: -8728679542119818898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef591d9e7b2b500800000000000000
+      internalID: 410592730915667459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c42ef9b05ce3c80800000000000000
+      internalID: -8341012806125859735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b6d0f34b386be60800000000000000
+      internalID: 7977708600108608412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115d746ecef62010800000000000000
+      internalID: 1163897716124504341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd740b2460fba70800000000000000
+      internalID: 8844795076674051380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ae77fc1fe8cd50800000000000000
+      internalID: 6757914148559823824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4f338f82444ce0800000000000000
+      internalID: -1421938398192514554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dbe3f0556d8a270800000000000000
+      internalID: 8262089177227509137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec26c1526d71c7c0800000000000000
+      internalID: -4052820328424526610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c04353f1644450800000000000000
+      internalID: 6072085895303970887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ac7293eea6cf860800000000000000
+      internalID: 7565039045469260356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275eedd5fcd2f3370800000000000000
+      internalID: 8304406606550852978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efb16aa492d2d00800000000000000
+      internalID: 949460497036213874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af56dbeb3cd66840a63593324f79d37
+      internalID: -9039943707323098211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Jefe Juego 2D_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88a456e0d051648b7c069b6d2ca904
+      internalID: -6560293113043557713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d04296743e96c424792661d9a42c70da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Spritesheet Jefe Juego 2D_0: -7020509000632040715
+      Spritesheet Jefe Juego 2D_1: 4021875463248881574
+      Spritesheet Jefe Juego 2D_10: -6786013897457000425
+      Spritesheet Jefe Juego 2D_11: -8451159601561506955
+      Spritesheet Jefe Juego 2D_12: 1392652474888523273
+      Spritesheet Jefe Juego 2D_13: -7686017805462371687
+      Spritesheet Jefe Juego 2D_14: 1316653753648459679
+      Spritesheet Jefe Juego 2D_15: -2570813370776963322
+      Spritesheet Jefe Juego 2D_16: 8004973209300502766
+      Spritesheet Jefe Juego 2D_17: 6574971620652043977
+      Spritesheet Jefe Juego 2D_18: 4960149064244861757
+      Spritesheet Jefe Juego 2D_19: 5896278085221496964
+      Spritesheet Jefe Juego 2D_2: -5954189322733870827
+      Spritesheet Jefe Juego 2D_20: 7590681140060347244
+      Spritesheet Jefe Juego 2D_21: 8959863282579176090
+      Spritesheet Jefe Juego 2D_22: -2119091981845709913
+      Spritesheet Jefe Juego 2D_23: -1644653990111379257
+      Spritesheet Jefe Juego 2D_24: -6925640703523911375
+      Spritesheet Jefe Juego 2D_25: -1386288661861013018
+      Spritesheet Jefe Juego 2D_26: 8360054258303408435
+      Spritesheet Jefe Juego 2D_27: 5958042627390626250
+      Spritesheet Jefe Juego 2D_28: -146800737178481396
+      Spritesheet Jefe Juego 2D_29: -1026988991752526675
+      Spritesheet Jefe Juego 2D_3: 1514733719163162850
+      Spritesheet Jefe Juego 2D_30: -7082951805299696170
+      Spritesheet Jefe Juego 2D_31: 6935543917546946628
+      Spritesheet Jefe Juego 2D_32: -5695853586948744023
+      Spritesheet Jefe Juego 2D_33: 1617131644783893015
+      Spritesheet Jefe Juego 2D_34: 2715935414184052025
+      Spritesheet Jefe Juego 2D_35: -8728679542119818898
+      Spritesheet Jefe Juego 2D_36: 410592730915667459
+      Spritesheet Jefe Juego 2D_37: -8341012806125859735
+      Spritesheet Jefe Juego 2D_38: 7977708600108608412
+      Spritesheet Jefe Juego 2D_39: 1163897716124504341
+      Spritesheet Jefe Juego 2D_4: -533363813163230692
+      Spritesheet Jefe Juego 2D_40: 8844795076674051380
+      Spritesheet Jefe Juego 2D_41: 6757914148559823824
+      Spritesheet Jefe Juego 2D_42: -1421938398192514554
+      Spritesheet Jefe Juego 2D_43: 8262089177227509137
+      Spritesheet Jefe Juego 2D_44: -4052820328424526610
+      Spritesheet Jefe Juego 2D_45: 6072085895303970887
+      Spritesheet Jefe Juego 2D_46: 7565039045469260356
+      Spritesheet Jefe Juego 2D_47: -9039943707323098211
+      Spritesheet Jefe Juego 2D_48: -6560293113043557713
+      Spritesheet Jefe Juego 2D_49: 8304406606550852978
+      Spritesheet Jefe Juego 2D_5: -5113174830035472407
+      Spritesheet Jefe Juego 2D_50: 949460497036213874
+      Spritesheet Jefe Juego 2D_6: -4872396957837670304
+      Spritesheet Jefe Juego 2D_7: 5823504863879865928
+      Spritesheet Jefe Juego 2D_8: -4103868054191403237
+      Spritesheet Jefe Juego 2D_9: 4493976581311807612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
