@@ -6,8 +6,13 @@ public class EnemyHealth : MonoBehaviour
     public int maxHealth = 50;
     private int currentHealth;
 
+    [Header("Flash")]
+    public float flashDuration = 0.5f;   // tiempo total del parpadeo
+    public float flashInterval = 0.1f;   // velocidad del parpadeo
+
     private SpriteRenderer spriteRenderer;
     private Color originalColor;
+    private Coroutine flashCoroutine;
 
     void Start()
     {
@@ -20,7 +25,10 @@ public class EnemyHealth : MonoBehaviour
     {
         currentHealth -= damage;
 
-        StartCoroutine(FlashRed());
+        if (flashCoroutine != null)
+            StopCoroutine(flashCoroutine);
+
+        flashCoroutine = StartCoroutine(FlashRed());
 
         if (currentHealth <= 0)
         {
@@ -30,8 +38,19 @@ public class EnemyHealth : MonoBehaviour
 
     IEnumerator FlashRed()
     {
-        spriteRenderer.color = Color.red;
-        yield return new WaitForSeconds(0.1f);
+        float timer = 0f;
+
+        while (timer < flashDuration)
+        {
+            spriteRenderer.color = Color.red;
+            yield return new WaitForSeconds(flashInterval);
+
+            spriteRenderer.color = originalColor;
+            yield return new WaitForSeconds(flashInterval);
+
+            timer += flashInterval * 2f;
+        }
+
         spriteRenderer.color = originalColor;
     }
 
@@ -40,3 +59,4 @@ public class EnemyHealth : MonoBehaviour
         Destroy(gameObject);
     }
 }
+
