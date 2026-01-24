@@ -1,10 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
     [Header("Movement")]
     public float moveSpeed = 2f;
-    public float jumpForce = 6f;
     public float detectionRange = 8f;
     public float attackRange = 1.5f;
 
@@ -15,8 +14,8 @@ public class EnemyAI : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
 
-    private bool isGrounded;
     private bool canAttack = true;
+    private bool isAttacking = false;
 
     void Start()
     {
@@ -29,70 +28,54 @@ public class EnemyAI : MonoBehaviour
     {
         float distance = Vector2.Distance(transform.position, player.position);
 
-        if (distance <= detectionRange)
+        if (distance > detectionRange)
         {
-            ChasePlayer(distance);
+            Stop();
+            return;
         }
-        else
-        {
-            anim.SetFloat("Speed", 0);
-        }
-    }
 
-    void ChasePlayer(float distance)
-    {
-        
+        if (isAttacking) return;
+
         float direction = player.position.x - transform.position.x;
 
-      
-        if (direction > 0)
-            transform.localScale = new Vector3(1, 1, 1);
-        else
-            transform.localScale = new Vector3(-1, 1, 1);
+        // Flip
+        transform.localScale = new Vector3(Mathf.Sign(direction), 1, 1);
 
         if (distance > attackRange)
         {
+            // RUN
             rb.linearVelocity = new Vector2(Mathf.Sign(direction) * moveSpeed, rb.linearVelocity.y);
             anim.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
         }
-        else
+        else if (canAttack)
         {
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            // ATTACK
+            rb.linearVelocity = Vector2.zero;
             anim.SetFloat("Speed", 0);
-
-            if (canAttack)
-                Attack();
+            StartAttack();
         }
     }
 
-    void Attack()
+    void Stop()
     {
+        rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        anim.SetFloat("Speed", 0);
+    }
+
+    void StartAttack()
+    {
+        isAttacking = true;
         canAttack = false;
         anim.SetTrigger("Attack");
-        Invoke(nameof(ResetAttack), attackCooldown);
+        Invoke(nameof(EndAttack), attackCooldown);
     }
 
-    void ResetAttack()
+    void EndAttack()
     {
+        isAttacking = false;
         canAttack = true;
     }
-
-  
-    public void Jump()
-    {
-        if (isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            anim.SetTrigger("Jump");
-            isGrounded = false;
-        }
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.contacts[0].normal.y > 0.5f)
-        {
-            isGrounded = true;
-        }
-    }
 }
+
+
+
