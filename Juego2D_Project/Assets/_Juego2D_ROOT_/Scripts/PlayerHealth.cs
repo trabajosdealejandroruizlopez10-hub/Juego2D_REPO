@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class PlayerHealth : MonoBehaviour
@@ -6,6 +7,9 @@ public class PlayerHealth : MonoBehaviour
     [Header("Vida")]
     public int maxHealth = 100;
     public int currentHealth;
+
+    [Header("UI")]
+    public Image healthBarFill;
 
     [Header("Respawn")]
     public Transform respawnPoint;
@@ -21,16 +25,10 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
+        UpdateHealthBar();
 
         spriteRenderer = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
-
-        if (respawnPoint == null)
-        {
-            GameObject rp = GameObject.Find("RespawnPoint");
-            if (rp != null)
-                respawnPoint = rp.transform;
-        }
     }
 
     public void TakeDamage(int damage)
@@ -38,7 +36,9 @@ public class PlayerHealth : MonoBehaviour
         if (isInvincible) return;
 
         currentHealth -= damage;
-        Debug.Log("Vida actual: " + currentHealth);
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
+        UpdateHealthBar();
 
         if (currentHealth <= 0)
         {
@@ -57,19 +57,24 @@ public class PlayerHealth : MonoBehaviour
 
     void Respawn()
     {
-        
         currentHealth = maxHealth;
+        UpdateHealthBar();
 
-        
         if (rb != null)
             rb.linearVelocity = Vector2.zero;
 
-        
         if (respawnPoint != null)
             transform.position = respawnPoint.position;
 
-        
         StartCoroutine(Invincibility());
+    }
+
+    void UpdateHealthBar()
+    {
+        if (healthBarFill != null)
+        {
+            healthBarFill.fillAmount = (float)currentHealth / maxHealth;
+        }
     }
 
     IEnumerator Invincibility()
