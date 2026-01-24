@@ -11,13 +11,17 @@ public class CollectibleSceneChange : MonoBehaviour
 
     private bool isPlaying = false;
     private AudioSource backgroundMusic;
+    private GameObject healthUI;
 
     void Start()
     {
-        // Busca la música de fondo por tag
+        // Música de fondo
         GameObject musicObj = GameObject.FindGameObjectWithTag("Music");
         if (musicObj != null)
             backgroundMusic = musicObj.GetComponent<AudioSource>();
+
+        // Barra de vida (Canvas)
+        healthUI = GameObject.FindGameObjectWithTag("HealthUI");
     }
 
     public void StartTransition()
@@ -25,9 +29,13 @@ public class CollectibleSceneChange : MonoBehaviour
         if (isPlaying) return;
         isPlaying = true;
 
-        // ⏸️ Pausar música de fondo
+        // ⏸️ Pausar música
         if (backgroundMusic != null)
             backgroundMusic.Pause();
+
+        // ❌ Ocultar barra de vida
+        if (healthUI != null)
+            healthUI.SetActive(false);
 
         videoCanvas.SetActive(true);
         StartCoroutine(PlayVideo());
