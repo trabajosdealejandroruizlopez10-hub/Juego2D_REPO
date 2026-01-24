@@ -15,7 +15,13 @@ public class MenuController : MonoBehaviour
 
     public void MostrarControles()
     {
-        // Aquí puedes mostrar un panel o abrir otra escena con los controles
-        Debug.Log("Controles");
+        
+        SceneManager.LoadScene("Controles"); 
+    }
+
+    public void SalirControles()
+    {
+        
+        SceneManager.LoadScene("SCN_Main_Menu"); 
     }
 }
