@@ -5,7 +5,7 @@ public class MenuController : MonoBehaviour
 {
     public void Jugar()
     {
-        SceneManager.LoadScene("TUTO_FUEGO");  
+        SceneManager.LoadScene("CinematicaInicial");  
     }
 
     public void Salir()
